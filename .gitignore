@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+# intermediate render files (the final video.mp4, script and captions stay)
+videos/*/assets/
